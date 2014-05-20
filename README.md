@@ -9,3 +9,6 @@ Please install the required package 'reshape2' before running the script
 
 General Comment on code structure:
 The script performs the steps 1-5 of the project instructions in a slightly different order for the purpose of simplicity and completeness
+
+For some further details:
+Please also read CodeBook.md located in this repository
